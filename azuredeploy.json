@@ -32,11 +32,11 @@
     },
     "oauthClientId": {
       "type": "string",
-      "defaultValue": "GITHUB_APPLICATION_CLIENT_ID"
+      "defaultValue": "b224525afcf72e731bca"
     },
     "oauthClientSecret": {
       "type": "string",
-      "defaultValue": "GITHUB_APPLICATION_CLIENT_SECRET"
+      "defaultValue": "a803342688a3732658407088cb9ac47a576db118"
     },
     "oauthHost": {
       "type": "string",
